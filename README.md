@@ -108,25 +108,12 @@ phpMyAdmin
 
 http://localhost:8080
 
-## 📸 Screenshots
 
-### WordPress Setup
-![WordPress Setup](images/wordpress-setup.png)
-
-### WordPress Site
-![WordPress Site](images/wordpress.png)
-
-### phpMyAdmin
-![phpMyAdmin](images/phpmyadmin.png)
-
-### Database
-![Database](images/database.png)
-
-### Docker Containers
-![Docker Containers](images/docker.png)
 
 🛑 Stop
+
 docker compose down
+
 🗑️ Remove Containers and Volumes
 docker compose down -v
 
@@ -137,16 +124,6 @@ Clone the repository:
 ```bash
 git clone https://github.com/adhamgamal22/wordpress-docker-compose-project.git
 cd wordpress-docker-compose-project
-
-🛑 Stop
-docker compose down
-🗑️ Remove Containers and Volumes
-docker compose down -v
-
-## ▶️ Run the Project
-
-Clone the repository:
-
 ```bash
 git clone https://github.com/adhamgamal22/wordpress-docker-compose-project.git
-cd wordpress-docker-compose-project
+cd wordpress-docker-compose-
