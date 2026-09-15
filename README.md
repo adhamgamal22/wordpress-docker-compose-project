@@ -43,25 +43,24 @@ docker compose up -d
 Check containers:
 
 docker compose ps
-🌐 Access
 
-WordPress
-
+🌐 Access To WordPress
 http://localhost:8000
 
 phpMyAdmin
-
 http://localhost:8080
+
 📸 Screenshots
-WordPress
 
-WordPress Setup
+wordpress.png
 
-phpMyAdmin
+wordpress-setup.png
 
-Database
+phpmyadmin.png
 
-Docker Containers
+database.png
+
+docker.png
 
 🛑 Stop
 docker compose down
